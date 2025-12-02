@@ -1,0 +1,80 @@
+{
+  "hoa_don": [
+    {
+      "id": 1,
+      "ten_cua_hang": "Siêu Thị ABC",
+      "dia_chi_cua_hang": "123 Đường XYZ, Quận 1, TP. HCM",
+      "so_dien_thoai": "0909123456",
+      "so_hoa_don": "HD001",
+      "ngay_mua": "2025-11-20",
+      "gio_xuat_bill": "10:30:00",
+      "nhan_vien_xuat_bill": "Nguyễn Văn A",
+      "tong_tien_thanh_toan": 550000,
+      "link_anh_hoa_don": "https://example.com/hd001.jpg",
+      "ghi_chu": "Mua hàng tiêu dùng hàng tuần"
+    },
+    {
+      "id": 2,
+      "ten_cua_hang": "Nhà Sách XYZ",
+      "dia_chi_cua_hang": "456 Đường ABC, Quận 3, TP. HCM",
+      "so_dien_thoai": "0987654321",
+      "so_hoa_don": "HD002",
+      "ngay_mua": "2025-11-22",
+      "gio_xuat_bill": "15:00:00",
+      "nhan_vien_xuat_bill": "Trần Thị B",
+      "tong_tien_thanh_toan": 250000,
+      "link_anh_hoa_don": "https://example.com/hd002.jpg",
+      "ghi_chu": ""
+    }
+  ],
+  "chi_tiet_hoa_don": [
+    {
+      "id": 1,
+      "ma_hoa_don": 1,
+      "ten_mon": "Sữa Tươi",
+      "so_luong": 2,
+      "don_gia": 35000,
+      "thanh_tien": 70000
+    },
+    {
+      "id": 2,
+      "ma_hoa_don": 1,
+      "ten_mon": "Bánh Mì",
+      "so_luong": 5,
+      "don_gia": 10000,
+      "thanh_tien": 50000
+    },
+    {
+      "id": 3,
+      "ma_hoa_don": 1,
+      "ten_mon": "Thịt Bò",
+      "so_luong": 1,
+      "don_gia": 200000,
+      "thanh_tien": 200000
+    },
+     {
+      "id": 4,
+      "ma_hoa_don": 1,
+      "ten_mon": "Rau Cải",
+      "so_luong": 2,
+      "don_gia": 15000,
+      "thanh_tien": 30000
+    },
+    {
+      "id": 5,
+      "ma_hoa_don": 2,
+      "ten_mon": "Sách 'Lập Trình JavaScript'",
+      "so_luong": 1,
+      "don_gia": 150000,
+      "thanh_tien": 150000
+    },
+    {
+      "id": 6,
+      "ma_hoa_don": 2,
+      "ten_mon": "Bút Bi",
+      "so_luong": 10,
+      "don_gia": 5000,
+      "thanh_tien": 50000
+    }
+  ]
+}
